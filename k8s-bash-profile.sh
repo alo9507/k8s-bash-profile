@@ -1,0 +1,5 @@
+alias k="kubectl"
+alias c="clear"
+alias ksc="k config set-context --current --namespace $1"
+alias kall="k get all"
+alias kgp="k get pods"
