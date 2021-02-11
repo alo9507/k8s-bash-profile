@@ -1,6 +1,6 @@
 alias k="kubectl"
 alias c="clear"
-alias ksc="k config set-context --current --namespace $1"
+alias ksc="k config set-context --current --namespace"
 alias kall="k get all"
 alias kgp="k get pods"
 alias kcy="k create -o yaml --dry-run=client"
